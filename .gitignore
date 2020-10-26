@@ -1,0 +1,17 @@
+/.gradle/
+/build
+/classes
+/out
+/.idea
+/*.iml
+
+# ignore the eclipse project file
+.settings
+.project
+.classpath
+
+# ignore the intelliJ project file
+/out
+/classes
+*.iml
+/.idea
